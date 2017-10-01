@@ -8,6 +8,6 @@ connect to a STOMP broker, either directly or using SockJS wrapper.
 # Examples
 There are two example sketches included, which should be used together.
 
-The examples have been tested using the esp-stomp-example application, which is a simple Stomp server implemented using Spring Boot.
+The examples have been tested using the https://github.com/dmcintyre-pivotal/ESPStompExample application, which is a simple Stomp server implemented using Spring Boot.
 
 
